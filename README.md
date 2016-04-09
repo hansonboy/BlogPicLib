@@ -40,5 +40,5 @@
     		 c.erase(5);
     		 copy(c.begin(), c.end(), ostream_iterator<int>(cout," "))
   			}
- 8. #### 运行截图![](https://raw.githubusercontent.com/hansonboy/BlogPicLib/master/output.png)
+ 8. #### 运行截图![](https://raw.githubusercontent.com/hansonboy/BlogPicLib/master/output1.png)
  
